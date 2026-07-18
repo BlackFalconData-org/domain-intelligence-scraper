@@ -1,6 +1,6 @@
 # Domain Intelligence Scraper
 
-Extract structured data from [console.apify.com](https://console.apify.com) — Bulk domain audit — DNS records, WHOIS, SSL certificates, HTTP status, email authentication (SPF/DMARC/DKIM) and blacklist checks, with a 0-100 security score and change monitoring.
+Bulk domain audit — DNS records, WHOIS, SSL certificates, HTTP status, email authentication (SPF/DMARC/DKIM) and blacklist checks, with a 0-100 security score and change monitoring.
 
 **[Domain Intelligence Scraper on Apify →](https://apify.com/blackfalcondata/domain-intelligence-scraper?fpr=1h3gvi)**
 
